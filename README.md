@@ -110,7 +110,7 @@ This Papyrus script handles Alduin's shout selection and usage logic in combat. 
 
 ---
 
-
+[## Code](https://github.com/TabbyOS/dut-source/releases/tag/v1.0)
 
 ---
 
