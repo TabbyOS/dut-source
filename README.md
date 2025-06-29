@@ -114,5 +114,10 @@ This Papyrus script handles Alduin's shout selection and usage logic in combat. 
 
 ---
 
+## [Working on:](https://github.com/TabbyOS/dut-source/tree/main/tests)
+- CooldownController integration into the Main-Script
+- Debug Logger
+- EfectTriggerHelper
+
 ## Future Code:
 
