@@ -40,7 +40,7 @@ This Papyrus script manages a cooldown mechanic by applying and removing a Magic
 
 ---
 
-[## Code](https://github.com/TabbyOS/dut-source/releases/tag/v1.0)
+[## Code](https://github.com/TabbyOS/dut-source/releases/tag/beta.v1.0)
 
 ---
 
