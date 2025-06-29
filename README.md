@@ -40,7 +40,7 @@ This Papyrus script manages a cooldown mechanic by applying and removing a Magic
 
 ---
 
-
+[## Code](
 
 ---
 
